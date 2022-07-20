@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rootgood93_shopTest2/static/css/main.722d7810.css",
-    "main.js": "/rootgood93_shopTest2/static/js/main.65c54645.js",
+    "main.js": "/rootgood93_shopTest2/static/js/main.906e92cc.js",
     "static/js/787.307d9e76.chunk.js": "/rootgood93_shopTest2/static/js/787.307d9e76.chunk.js",
     "index.html": "/rootgood93_shopTest2/index.html",
     "main.722d7810.css.map": "/rootgood93_shopTest2/static/css/main.722d7810.css.map",
-    "main.65c54645.js.map": "/rootgood93_shopTest2/static/js/main.65c54645.js.map",
+    "main.906e92cc.js.map": "/rootgood93_shopTest2/static/js/main.906e92cc.js.map",
     "787.307d9e76.chunk.js.map": "/rootgood93_shopTest2/static/js/787.307d9e76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.722d7810.css",
-    "static/js/main.65c54645.js"
+    "static/js/main.906e92cc.js"
   ]
 }
