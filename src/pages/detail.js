@@ -7,7 +7,7 @@ function Detail(props){
     return(
         <div className="list_con">
             <p>{props.shoes[id].title}</p>
-            <img src={`/rootgood93_shopTest2/src/img/products0${id+1}.jpg`} />
+            <img src={`rootgood93_shopTest2/src/img/products0${id+1}.jpg`} />
         </div>
     );
 }
